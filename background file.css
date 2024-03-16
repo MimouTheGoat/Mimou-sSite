@@ -1,5 +1,13 @@
 /* In background.css */
 body {
   background-color: #0F0F0F;
-  color: #FDFFFF;  /* This line changes the text color */
+  color: #FDFFFF;
+}
+
+a:link {  /* Unvisited links */
+  color: #cc3d21;  /* Set color for unvisited links */
+}
+
+a:visited {  /* Visited links */
+  color: #545cf0;  /* Set color for visited links */
 }
