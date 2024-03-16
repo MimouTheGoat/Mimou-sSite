@@ -11,3 +11,8 @@ a:link {  /* Unvisited links */
 a:visited {  /* Visited links */
   color: #545cf0;  /* Set color for visited links */
 }
+
+
+body {
+  font-size: 1.5em;  /* Adjust the value (e.g., 1.5em for larger) */
+}
