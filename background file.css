@@ -1,4 +1,5 @@
 /* In background.css */
 body {
-  background-color: #B8D5E4;
+  background-color: #DED4BE;
+  color: #E4C7B8;  /* This line changes the text color */
 }
